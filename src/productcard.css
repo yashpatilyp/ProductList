@@ -1,0 +1,11 @@
+.card-inner{
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (max-width: 768px) {
+  .card-inner{
+    width: 90%;
+  }
+}
